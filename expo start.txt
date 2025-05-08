@@ -1,0 +1,7 @@
+cd C:\hamro-bazaar
+
+cd mobile
+
+expo start
+
+
